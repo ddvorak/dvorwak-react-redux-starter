@@ -1,6 +1,5 @@
 {
   "private": true,
-  "homepage": "https://create-react-app-redux.now.sh",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
